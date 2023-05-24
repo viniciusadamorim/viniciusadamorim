@@ -1,4 +1,4 @@
-Welcome! My name is Vinicius D'Amorim 👋
+## Welcome! My name is Vinicius D'Amorim 👋
 
 📚 I'm an undergraduate student in Analysis and Systems Development at Estácio  
 🕵️‍♀️ I'm always curious and building things  
