@@ -1,10 +1,10 @@
 Welcome! My name is Vinicius D'Amorim 👋
 
-📚 I'm an undergraduate student in Analysis and Systems Development at Estácio
-🕵️‍♀️ I'm always curious and building things
-👩🏿‍🤝‍🧑🏾 I'm available to help and learn together
-🔭 I'm currently interested in Java development
-📍 Located in Recife, Brazil
+📚 I'm an undergraduate student in Analysis and Systems Development at Estácio  
+🕵️‍♀️ I'm always curious and building things  
+👩🏿‍🤝‍🧑🏾 I'm available to help and learn together  
+🔭 I'm currently interested in Java development  
+📍 Located in Recife, Brazil  
 ## 
  
  
