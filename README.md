@@ -1,8 +1,8 @@
- ## Bem-Vindo! Eu me chamo Vinicius D'Amorim 👋
-📚 Undergraduate Student in Analysis and Systems Development - Estácio
-🕵️‍♀️ Always being curious and building things
-👩🏿‍🤝‍🧑🏾 I’m available to help and learn together
-🔭 I’m currently interested in Java development
+## Bem-Vindo! Eu me chamo Vinicius D'Amorim 👋  
+📚 Undergraduate Student in Analysis and Systems Development - Estácio  
+🕵️‍♀️ Always being curious and building things  
+👩🏿‍🤝‍🧑🏾 I’m available to help and learn together  
+🔭 I’m currently interested in Java development  
 📍 Recife, Brazil
 ## 
  
