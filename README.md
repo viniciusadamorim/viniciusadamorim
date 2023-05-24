@@ -4,6 +4,8 @@
 👩🏿‍🤝‍🧑🏾 I’m available to help and learn together
 🔭 I’m currently interested in Java development
 📍 Recife, Brazil
+## 
+ 
  
 <div>
 <img height = "180em" src ="https://github-readme-stats.vercel.app/api?username=viniciusadamorim&show_icons=true&theme=radical" />
