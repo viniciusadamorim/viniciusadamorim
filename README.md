@@ -6,12 +6,8 @@
 🔭 I'm currently interested in Java development  
 📍 Located in Recife, Brazil  
 ## 
- 
- 
-<div>
-<img height = "180em" src ="https://github-readme-stats.vercel.app/api?username=viniciusadamorim&show_icons=true&theme=radical" />
-<img height ="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusadamorim&show_icons=true&theme=radical"/>
-</div>
+
+# SKILS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Java" height="40" width="50" src="https://icongr.am/devicon/java-original-wordmark.svg?size=148&color=ffffff"/>
