@@ -7,7 +7,7 @@
 📍 Located in Recife, Brazil  
 ## 
 
-# SKILS
+# SKILLS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Java" height="40" width="50" src="https://icongr.am/devicon/java-original-wordmark.svg?size=148&color=ffffff"/>
