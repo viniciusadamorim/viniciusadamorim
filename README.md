@@ -4,7 +4,8 @@
 🕵️‍♀️ I'm always curious and building things  
 👩🏿‍🤝‍🧑🏾 I'm available to help and learn together  
 🔭 I'm currently interested in Java development And Cloud
-🎖️ I'm AWS Certified 
+🎖️ I'm AWS Certified
+
 📍 Located in Recife, Brazil 
 
 ## 
