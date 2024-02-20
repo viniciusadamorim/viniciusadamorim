@@ -3,14 +3,17 @@
 📚 I'm an undergraduate student in Analysis and Systems Development at Estácio  
 🕵️‍♀️ I'm always curious and building things  
 👩🏿‍🤝‍🧑🏾 I'm available to help and learn together  
-🔭 I'm currently interested in Java development  
-📍 Located in Recife, Brazil  
+🔭 I'm currently interested in Java development And Cloud
+🎖️ I'm AWS Certified 
+📍 Located in Recife, Brazil 
+
 ## 
 
 # SKILLS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Java" height="40" width="50" src="https://icongr.am/devicon/java-original-wordmark.svg?size=148&color=ffffff"/>
+  <img align="center" alt="Vinicius-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Vinicius-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
   <img align="center" alt="Vinicius-GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"/>
   <img align="center" alt="Vinicius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
